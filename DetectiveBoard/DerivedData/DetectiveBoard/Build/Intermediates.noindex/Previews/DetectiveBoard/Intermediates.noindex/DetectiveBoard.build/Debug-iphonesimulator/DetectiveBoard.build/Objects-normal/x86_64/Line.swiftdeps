@@ -1,0 +1,378 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Line"
+- "-="
+- "-"
+- "+="
+- "+"
+provides-nominal:
+- "14DetectiveBoard4LineV"
+- "So7CGPointV"
+provides-member:
+- ["14DetectiveBoard4LineV", ""]
+- ["So7CGPointV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "*="
+- "+"
+- "+="
+- "-"
+- "-="
+- "AnimatablePair"
+- "AssignmentPrecedence"
+- !private "CGFloat"
+- "CGPoint"
+- "CGRect"
+- "Double"
+- "Line"
+- "Path"
+- "Shape"
+- "VectorArithmetic"
+depends-member:
+- ["s18AdditiveArithmeticP", "+"]
+- ["s18AdditiveArithmeticP", "+="]
+- ["s18AdditiveArithmeticP", "-"]
+- ["s18AdditiveArithmeticP", "-="]
+- !private ["s18AdditiveArithmeticP", "CGFloat"]
+- !private ["s18AdditiveArithmeticP", "CGPoint"]
+- !private ["s18AdditiveArithmeticP", "Double"]
+- ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "first"]
+- !private ["s18AdditiveArithmeticP", "init"]
+- ["s18AdditiveArithmeticP", "magnitudeSquared"]
+- ["s18AdditiveArithmeticP", "scale"]
+- !private ["s18AdditiveArithmeticP", "second"]
+- !private ["s18AdditiveArithmeticP", "x"]
+- !private ["s18AdditiveArithmeticP", "y"]
+- ["s18AdditiveArithmeticP", "zero"]
+- ["7SwiftUI10AnimatableP", "+"]
+- ["7SwiftUI10AnimatableP", "+="]
+- ["7SwiftUI10AnimatableP", "-"]
+- ["7SwiftUI10AnimatableP", "-="]
+- ["7SwiftUI10AnimatableP", "AnimatableData"]
+- !private ["7SwiftUI10AnimatableP", "AnimatablePair"]
+- ["7SwiftUI10AnimatableP", "Body"]
+- !private ["7SwiftUI10AnimatableP", "CGFloat"]
+- !private ["7SwiftUI10AnimatableP", "CGPoint"]
+- !private ["7SwiftUI10AnimatableP", "Double"]
+- !private ["7SwiftUI10AnimatableP", "Path"]
+- ["7SwiftUI10AnimatableP", ""]
+- ["7SwiftUI10AnimatableP", "_Default_AnimatableData"]
+- ["7SwiftUI10AnimatableP", "_Default_Body"]
+- ["7SwiftUI10AnimatableP", "_makeAnimatable"]
+- ["7SwiftUI10AnimatableP", "_makeView"]
+- ["7SwiftUI10AnimatableP", "_makeViewList"]
+- !private ["7SwiftUI10AnimatableP", "addLine"]
+- ["7SwiftUI10AnimatableP", "animatableData"]
+- ["7SwiftUI10AnimatableP", "body"]
+- !private ["7SwiftUI10AnimatableP", "from"]
+- !private ["7SwiftUI10AnimatableP", "init"]
+- ["7SwiftUI10AnimatableP", "magnitudeSquared"]
+- !private ["7SwiftUI10AnimatableP", "move"]
+- ["7SwiftUI10AnimatableP", "path"]
+- ["7SwiftUI10AnimatableP", "scale"]
+- !private ["7SwiftUI10AnimatableP", "to"]
+- !private ["7SwiftUI10AnimatableP", "x"]
+- !private ["7SwiftUI10AnimatableP", "y"]
+- ["7SwiftUI10AnimatableP", "zero"]
+- !private ["7SwiftUI14AnimatablePairV", "first"]
+- !private ["7SwiftUI14AnimatablePairV", "init"]
+- !private ["7SwiftUI14AnimatablePairV", "second"]
+- !private ["SB", "init"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- ["So7CGPointV", "+"]
+- ["So7CGPointV", "+="]
+- ["So7CGPointV", "-"]
+- ["So7CGPointV", "-="]
+- !private ["So7CGPointV", "CGFloat"]
+- ["So7CGPointV", "CGPoint"]
+- ["So7CGPointV", "Double"]
+- ["So7CGPointV", "deinit"]
+- !private ["So7CGPointV", "init"]
+- ["So7CGPointV", "magnitudeSquared"]
+- ["So7CGPointV", "scale"]
+- !private ["So7CGPointV", "x"]
+- !private ["So7CGPointV", "y"]
+- ["So7CGPointV", "zero"]
+- !private ["s7CVarArgP", "init"]
+- !private ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "+"]
+- ["s28CustomDebugStringConvertibleP", "+="]
+- ["s28CustomDebugStringConvertibleP", "-"]
+- ["s28CustomDebugStringConvertibleP", "-="]
+- !private ["s28CustomDebugStringConvertibleP", "CGFloat"]
+- !private ["s28CustomDebugStringConvertibleP", "CGPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "Double"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "magnitudeSquared"]
+- ["s28CustomDebugStringConvertibleP", "scale"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- ["s28CustomDebugStringConvertibleP", "zero"]
+- ["s17CustomReflectableP", "+"]
+- ["s17CustomReflectableP", "+="]
+- ["s17CustomReflectableP", "-"]
+- ["s17CustomReflectableP", "-="]
+- !private ["s17CustomReflectableP", "CGFloat"]
+- !private ["s17CustomReflectableP", "CGPoint"]
+- !private ["s17CustomReflectableP", "Double"]
+- !private ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "magnitudeSquared"]
+- ["s17CustomReflectableP", "scale"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- ["s17CustomReflectableP", "zero"]
+- !private ["s23CustomStringConvertibleP", "addLine"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "move"]
+- ["Se", "+"]
+- ["Se", "+="]
+- ["Se", "-"]
+- ["Se", "-="]
+- !private ["Se", "CGFloat"]
+- !private ["Se", "CGPoint"]
+- !private ["Se", "Double"]
+- !private ["Se", "init"]
+- ["Se", "magnitudeSquared"]
+- ["Se", "scale"]
+- !private ["Se", "x"]
+- !private ["Se", "y"]
+- ["Se", "zero"]
+- !private ["Sd", "init"]
+- ["SE", "+"]
+- ["SE", "+="]
+- ["SE", "-"]
+- ["SE", "-="]
+- !private ["SE", "CGFloat"]
+- !private ["SE", "CGPoint"]
+- !private ["SE", "Double"]
+- !private ["SE", "init"]
+- ["SE", "magnitudeSquared"]
+- ["SE", "scale"]
+- !private ["SE", "x"]
+- !private ["SE", "y"]
+- ["SE", "zero"]
+- ["SQ", "+"]
+- ["SQ", "+="]
+- ["SQ", "-"]
+- ["SQ", "-="]
+- !private ["SQ", "CGFloat"]
+- !private ["SQ", "CGPoint"]
+- !private ["SQ", "Double"]
+- !private ["SQ", "addLine"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- ["SQ", "magnitudeSquared"]
+- !private ["SQ", "move"]
+- ["SQ", "scale"]
+- !private ["SQ", "second"]
+- !private ["SQ", "x"]
+- !private ["SQ", "y"]
+- ["SQ", "zero"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["SF", "init"]
+- !private ["SH", "init"]
+- ["14DetectiveBoard4LineV", "AnimatableData"]
+- ["14DetectiveBoard4LineV", "AnimatablePair"]
+- ["14DetectiveBoard4LineV", "Body"]
+- ["14DetectiveBoard4LineV", "CGPoint"]
+- ["14DetectiveBoard4LineV", "CGRect"]
+- ["14DetectiveBoard4LineV", "Path"]
+- ["14DetectiveBoard4LineV", "_Default_AnimatableData"]
+- ["14DetectiveBoard4LineV", "_Default_Body"]
+- ["14DetectiveBoard4LineV", "_makeAnimatable"]
+- ["14DetectiveBoard4LineV", "_makeView"]
+- ["14DetectiveBoard4LineV", "_makeViewList"]
+- ["14DetectiveBoard4LineV", "animatableData"]
+- ["14DetectiveBoard4LineV", "body"]
+- ["14DetectiveBoard4LineV", "deinit"]
+- ["14DetectiveBoard4LineV", "from"]
+- ["14DetectiveBoard4LineV", "init"]
+- ["14DetectiveBoard4LineV", "path"]
+- ["14DetectiveBoard4LineV", "to"]
+- !private ["s25LosslessStringConvertibleP", "addLine"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "move"]
+- !private ["Sj", "init"]
+- !private ["7SwiftUI4PathV", "addLine"]
+- !private ["7SwiftUI4PathV", "init"]
+- !private ["7SwiftUI4PathV", "move"]
+- !private ["s10SIMDScalarP", "init"]
+- ["7SwiftUI5ShapeP", "AnimatableData"]
+- !private ["7SwiftUI5ShapeP", "AnimatablePair"]
+- ["7SwiftUI5ShapeP", "Body"]
+- !private ["7SwiftUI5ShapeP", "Path"]
+- ["7SwiftUI5ShapeP", ""]
+- ["7SwiftUI5ShapeP", "_Default_AnimatableData"]
+- ["7SwiftUI5ShapeP", "_Default_Body"]
+- ["7SwiftUI5ShapeP", "_makeAnimatable"]
+- ["7SwiftUI5ShapeP", "_makeView"]
+- ["7SwiftUI5ShapeP", "_makeViewList"]
+- !private ["7SwiftUI5ShapeP", "addLine"]
+- ["7SwiftUI5ShapeP", "animatableData"]
+- ["7SwiftUI5ShapeP", "body"]
+- !private ["7SwiftUI5ShapeP", "from"]
+- !private ["7SwiftUI5ShapeP", "init"]
+- !private ["7SwiftUI5ShapeP", "move"]
+- ["7SwiftUI5ShapeP", "path"]
+- !private ["7SwiftUI5ShapeP", "to"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- ["7SwiftUI16VectorArithmeticP", "+"]
+- ["7SwiftUI16VectorArithmeticP", "+="]
+- ["7SwiftUI16VectorArithmeticP", "-"]
+- ["7SwiftUI16VectorArithmeticP", "-="]
+- !private ["7SwiftUI16VectorArithmeticP", "CGFloat"]
+- !private ["7SwiftUI16VectorArithmeticP", "CGPoint"]
+- !private ["7SwiftUI16VectorArithmeticP", "Double"]
+- ["7SwiftUI16VectorArithmeticP", ""]
+- !private ["7SwiftUI16VectorArithmeticP", "first"]
+- !private ["7SwiftUI16VectorArithmeticP", "init"]
+- ["7SwiftUI16VectorArithmeticP", "magnitudeSquared"]
+- ["7SwiftUI16VectorArithmeticP", "scale"]
+- !private ["7SwiftUI16VectorArithmeticP", "second"]
+- !private ["7SwiftUI16VectorArithmeticP", "x"]
+- !private ["7SwiftUI16VectorArithmeticP", "y"]
+- ["7SwiftUI16VectorArithmeticP", "zero"]
+- ["7SwiftUI4ViewP", "AnimatableData"]
+- !private ["7SwiftUI4ViewP", "AnimatablePair"]
+- ["7SwiftUI4ViewP", "Body"]
+- !private ["7SwiftUI4ViewP", "Path"]
+- ["7SwiftUI4ViewP", ""]
+- ["7SwiftUI4ViewP", "_Default_AnimatableData"]
+- ["7SwiftUI4ViewP", "_Default_Body"]
+- ["7SwiftUI4ViewP", "_makeAnimatable"]
+- ["7SwiftUI4ViewP", "_makeView"]
+- ["7SwiftUI4ViewP", "_makeViewList"]
+- !private ["7SwiftUI4ViewP", "addLine"]
+- ["7SwiftUI4ViewP", "animatableData"]
+- ["7SwiftUI4ViewP", "body"]
+- !private ["7SwiftUI4ViewP", "from"]
+- !private ["7SwiftUI4ViewP", "init"]
+- !private ["7SwiftUI4ViewP", "move"]
+- ["7SwiftUI4ViewP", "path"]
+- !private ["7SwiftUI4ViewP", "to"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "+"]
+- ["s30_CustomPlaygroundQuickLookableP", "+="]
+- ["s30_CustomPlaygroundQuickLookableP", "-"]
+- ["s30_CustomPlaygroundQuickLookableP", "-="]
+- !private ["s30_CustomPlaygroundQuickLookableP", "CGFloat"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "CGPoint"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "Double"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- ["s30_CustomPlaygroundQuickLookableP", "magnitudeSquared"]
+- ["s30_CustomPlaygroundQuickLookableP", "scale"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "x"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "y"]
+- ["s30_CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["7SwiftUI18_FormatSpecifiableP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s21_ObjectiveCBridgeableP", "+"]
+- ["s21_ObjectiveCBridgeableP", "+="]
+- ["s21_ObjectiveCBridgeableP", "-"]
+- ["s21_ObjectiveCBridgeableP", "-="]
+- !private ["s21_ObjectiveCBridgeableP", "CGFloat"]
+- !private ["s21_ObjectiveCBridgeableP", "CGPoint"]
+- !private ["s21_ObjectiveCBridgeableP", "Double"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "magnitudeSquared"]
+- ["s21_ObjectiveCBridgeableP", "scale"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- ["s21_ObjectiveCBridgeableP", "zero"]
+depends-nominal:
+- "s18AdditiveArithmeticP"
+- "7SwiftUI10AnimatableP"
+- !private "7SwiftUI14AnimatablePairV"
+- !private "SB"
+- !private "12CoreGraphics7CGFloatV"
+- "So7CGPointV"
+- !private "s7CVarArgP"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- "Se"
+- !private "Sd"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "SF"
+- !private "SH"
+- "14DetectiveBoard4LineV"
+- !private "s25LosslessStringConvertibleP"
+- !private "Sj"
+- !private "7SwiftUI4PathV"
+- !private "s10SIMDScalarP"
+- "7SwiftUI5ShapeP"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "s20TextOutputStreamableP"
+- "7SwiftUI16VectorArithmeticP"
+- "7SwiftUI4ViewP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "7SwiftUI18_FormatSpecifiableP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreData.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/os.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/UIKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/SwiftUI.framework/Modules/SwiftUI.swiftmodule/x86_64-apple-ios-simulator.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreData.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftUI.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6cc3ef9187b50289d20bd8eeed01fb8d"

@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "373b194803001cb9b38c5345b4664dc0"
+build_time: [1588276688, 146417000]
+inputs:
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/CollectDict.swift": [1587833853, 455943803]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/AppDelegate.swift": [1587832682, 319693709]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/Tree.swift": [1587834857, 428232669]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/Unique.swift": [1587832913, 466505650]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/SceneDelegate.swift": [1587832682, 324452692]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/Line.swift": [1587834147, 822889656]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/ContentView.swift": [1588276486, 481594606]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/RoundedCircleStyle.swift": [1587835085, 806260975]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/BinaryTreeView.swift": [1588276687, 910619939]
+  "/Users/rgero215/dev/DetectiveBoard/DetectiveBoard/DetectiveBoard/Diagram.swift": [1587858709, 387343682]
